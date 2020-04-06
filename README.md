@@ -5,7 +5,7 @@ de tratamentos de eventos em uma lista chamada Solicitações existente em um si
 uma empresa de geração de energia.
 
 Ao adicionar uma nova solicitação ou altera-lá, é enviado emails ao solicitante e  aos facilitadores que são usuários vindos de campos
-do tipo People Picker. E Event Receiver tratam momentos em que as solicitações são atualizadas bloqueando determinadas alteração 
+do tipo People Picker. Os eventos tratam momentos em que as solicitações são atualizadas bloqueando determinadas alteração 
 seguindo seus status. Segue também a regra de bloquear a exclusão da solicitação conforme determinado status.
 
 No código você encontra:
